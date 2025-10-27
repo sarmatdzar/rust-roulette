@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rust Roulette</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&family=Rubik+Gemstones&family=Zen+Dots&family=Courgette&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="first-main">
+	<div class="arrow"></div>
+    <div class="circle"></div>
+  </div>
+  <div class="second-main">
+    <div class="info">
+      <div class="info-item">
+		<h2 class = "info-item-first-text">Time</h2>
+		<h2 class="info-item-second-text countdown"></h2>
+      </div>
+	  <div class="info-item">
+        <h2 class = "info-item-first-text">Balance</h2>
+        <h2 class="info-item-second-text balance">1000₪</h2>
+      </div>
+	  <div class="info-item">
+        <h2 class = "info-item-first-text">Won</h2>
+        <h2 class="info-item-second-text totalWin">1000₪</h2>
+      </div>
+    </div>
+    <div class="multi-choice">
+      <div class="multi-choice-item"><button class="multi-choice-item-button-1 multi-choice-item-button"></button></div>
+      <div class="multi-choice-item"><button class="multi-choice-item-button-2 multi-choice-item-button"></button></div>
+      <div class="multi-choice-item"><button class="multi-choice-item-button-3 multi-choice-item-button"></button></div>
+      <div class="multi-choice-item"><button class="multi-choice-item-button-4 multi-choice-item-button"></button></div>
+      <div class="multi-choice-item"><button class="multi-choice-item-button-5 multi-choice-item-button"></button></div>
+    </div>
+    <div class="bet-choice">
+        <button class="bet-choice-button-up bet-choice-button">+</button>
+        <div class="bet-choice-info">
+          <h3 class="bet-choice-info-text">0</h3>
+        </div>
+        <button class="bet-choice-button-down bet-choice-button">-</button>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script src="script.js"></script>
+</body>
+<div class="win-overlay">
+  <div class="win-content">
+    <h1 class="win-text">YOU WON!</h1>
+    <h2 class="win-amount">+0₪</h2>
+    <button class="btn-close-overlay">OK</button>
+  </div>
+</div>
+</html>
+
