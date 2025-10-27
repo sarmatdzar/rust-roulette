@@ -26,12 +26,12 @@ A single-page web application featuring the iconic casino wheel from the popular
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/rust-casino-wheel.git
+   git clone https://github.com/sarmatdzar/rust-roulette.git
    ```
 
 2. **Open in browser**
    ```bash
-   cd rust-casino-wheel
+   cd rust-roulette
    # Simply open index.html in your browser
    ```
 
