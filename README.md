@@ -9,7 +9,7 @@ A single-page web application featuring the iconic casino wheel from the popular
 
 ## 🎮 Live Demo
 
-![Rust Wheel Preview](https://via.placeholder.com/800x400/2c2c2c/ffffff?text=Rust+Casino+Wheel)
+![Rust Wheel Preview](back.jpg)
 
 ## ✨ Features
 
