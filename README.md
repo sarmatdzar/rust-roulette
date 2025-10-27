@@ -7,7 +7,7 @@
 
 A single-page web application featuring the iconic casino wheel from the popular game Rust. Experience the thrill of the wheel spin with authentic mechanics recreated for web browsers.
 
-## 🎮 Live Demo
+## 🎮 Demo
 
 ![Rust Wheel Preview](back.jpg)
 
