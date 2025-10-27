@@ -128,7 +128,7 @@ body {
 .info-item-first-text {
     font-family: 'Rajdhani', sans-serif;
     color: #d4af37;
-    font-size: 2.5em;
+    font-size: 1.5em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     font-weight: 700;
     letter-spacing: 1px;
@@ -413,6 +413,7 @@ body {
         opacity: 1;
     }
 }
+
 
 
 
