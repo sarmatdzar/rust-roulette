@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #1a1a1a url(Imgs/2.jpg) top no-repeat;
+    background: #1a1a1a url(imgs/2.jpg) top no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -21,7 +21,7 @@ body {
     height: 55vh;
     margin: 0 auto;
     justify-content: center;
-    background: url(Imgs/back.jpg) center no-repeat;
+    background: url(imgs/back.jpg) center no-repeat;
     background-size: cover;
     border-bottom: 3px solid #8b4513;
     position: relative;
@@ -40,7 +40,7 @@ body {
 }
 
 .circle {
-    background: url(Imgs/3.png) center no-repeat;
+    background: url(imgs/3.png) center no-repeat;
     background-size: cover;
     width: 50vh;
     height: 49vh;
@@ -59,7 +59,7 @@ body {
     overflow: hidden;
     background: 
         linear-gradient(rgba(42, 42, 42, 0.9), rgba(28, 28, 28, 0.9)),
-        url(Imgs/5.jpg) center repeat;
+        url(imgs/5.jpg) center repeat;
     background-size: cover;
     border-top: 2px solid #5d5d5d;
     position: relative;
@@ -90,7 +90,7 @@ body {
     height: min(120px, 20vw);
     background: 
         linear-gradient(135deg, #2a2a2a 0%, #1c1c1c 100%),
-        url(Imgs/7.jpg) center repeat;
+        url(imgs/7.jpg) center repeat;
     background-size: cover;
     border: 2px solid #8b4513;
     box-shadow: 
@@ -143,7 +143,7 @@ body {
 }
 
 .arrow {
-    background: url(Imgs/4.png) center no-repeat;
+    background: url(imgs/4.png) center no-repeat;
     background-size: cover;
     width: 12vh;
     height: 12vh;
@@ -161,7 +161,7 @@ body {
     height: min(120px, 20vw);
     background: 
         linear-gradient(135deg, #2a2a2a 0%, #1c1c1c 100%),
-        url(Imgs/7.jpg) center repeat;
+        url(imgs/7.jpg) center repeat;
     background-size: cover;
     border: 2px solid #8b4513;
     box-shadow: 
@@ -225,11 +225,11 @@ body {
     border: 1px solid #d4af37;
 }
 
-.multi-choice-item-button-1 { background: url(Imgs/12.png) center/cover no-repeat #2a2a2a; }
-.multi-choice-item-button-2 { background: url(Imgs/13.png) center/cover no-repeat #2a2a2a; }
-.multi-choice-item-button-3 { background: url(Imgs/14.png) center/cover no-repeat #2a2a2a; }
-.multi-choice-item-button-4 { background: url(Imgs/15.png) center/cover no-repeat #2a2a2a; }
-.multi-choice-item-button-5 { background: url(Imgs/16.png) center/cover no-repeat #2a2a2a; }
+.multi-choice-item-button-1 { background: url(imgs/12.png) center/cover no-repeat #2a2a2a; }
+.multi-choice-item-button-2 { background: url(imgs/13.png) center/cover no-repeat #2a2a2a; }
+.multi-choice-item-button-3 { background: url(imgs/14.png) center/cover no-repeat #2a2a2a; }
+.multi-choice-item-button-4 { background: url(imgs/15.png) center/cover no-repeat #2a2a2a; }
+.multi-choice-item-button-5 { background: url(imgs/16.png) center/cover no-repeat #2a2a2a; }
 
 .bet-choice {
     display: flex;
@@ -238,7 +238,7 @@ body {
     height: min(120px, 20vw);
     background: 
         linear-gradient(135deg, #2a2a2a 0%, #1c1c1c 100%),
-        url(Imgs/7.jpg) center repeat;
+        url(imgs/7.jpg) center repeat;
     background-size: cover;
     border: 2px solid #8b4513;
     box-shadow: 
@@ -254,7 +254,7 @@ body {
     height: 100%;
     background: 
         linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%),
-        url(Imgs/11.png) center repeat;
+        url(imgs/11.png) center repeat;
     background-size: cover;
     color: #d4af37;
     font-family: 'Rajdhani', sans-serif;
@@ -286,7 +286,7 @@ body {
     height: 100%;
     background: 
         linear-gradient(135deg, #2a2a2a 0%, #1c1c1c 100%),
-        url(Imgs/8.png) center repeat;
+        url(imgs/8.png) center repeat;
     background-size: cover;
     border-left: 1px solid #5d5d5d;
     border-right: 1px solid #5d5d5d;
@@ -317,7 +317,7 @@ body {
     filter: brightness(1.4) contrast(1.1);
     background: 
         linear-gradient(135deg, #a56a3e 0%, #b57a4e 100%),
-        url(Imgs/11.png) center repeat;
+        url(imgs/11.png) center repeat;
     box-shadow: 
         0 0 25px rgba(212, 175, 55, 0.6),
         inset 0 2px 5px rgba(255, 255, 255, 0.3);
@@ -413,6 +413,7 @@ body {
         opacity: 1;
     }
 }
+
 
 
 
